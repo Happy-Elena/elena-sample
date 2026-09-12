@@ -115,3 +115,18 @@ production values, not a costume-shop take on Ancient Egypt. Thin gold
 linework; Cleopatra symbolism (lotus, Eye of Horus, ankh, Egyptian ornament
 motifs) used sparingly, never kitsch. Every image should carry a sense of
 care, status, beauty, and trust.
+
+### Cat anatomy requirements (mandatory in every illustration prompt)
+
+Image models routinely mangle cat anatomy. Every prompt for the Кот Клеопатры
+character must spell this out explicitly, every time, not assume the model
+gets it right by default:
+
+- Exactly four legs and four paws, anatomically correct and proportional.
+- No extra or duplicated limbs, paws, tails, or digits.
+- Natural, physically plausible paw and limb positioning and resting pose
+  (no impossible bends, no limbs merging into objects or into each other).
+- Realistic cat anatomy overall: proportions, joints, and posture should
+  read as a real cat, not a stylized/deformed one.
+- If the generated result shows any of the above faults, regenerate or
+  `refine` rather than shipping it as-is.
