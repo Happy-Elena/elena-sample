@@ -130,3 +130,11 @@ gets it right by default:
   read as a real cat, not a stylized/deformed one.
 - If the generated result shows any of the above faults, regenerate or
   `refine` rather than shipping it as-is.
+
+### Character consistency: earring placement (mandatory in every illustration prompt)
+
+- The cat wears a single gold earring in the **left ear only**.
+- The **right ear always stays bare** - no earring, no matching pair.
+- State both halves of this explicitly in every prompt (which ear has it,
+  and that the other ear has none) rather than just naming "an earring,"
+  since models default to a symmetrical pair otherwise.
