@@ -54,8 +54,36 @@ writing skills mirror the rhythm and word choice of these, not a generic voice.
 Used by the illustration step (`lib.illustrate`) to keep every generated image
 on-brand via a pixel-exact overlay. All optional; leave blank to skip the overlay.
 
-- Handle to stamp on images: (e.g. @yourname)
-- Brand color (hex): (e.g. #0A66C2)
-- Logo: (path or Pixfaro `logo_id`, if you have one)
+- Handle to stamp on images:
+- Brand color (hex): #C9A24D (gold accent - reads clean as an overlay stamp on
+  both the dark emerald and ivory backgrounds below; never use the gold as a
+  large fill)
+- Logo: (path or Pixfaro `logo_id` - not generated yet). Concept: an elegant
+  Cleopatra profile in a thin gold outline, set against an ivory or
+  dark-emerald ground.
 - Overlay position: (e.g. bottom-right)
-- Visual style default: (e.g. minimal flat vector; bold editorial; muted photo)
+- Visual style default: premium luxury beauty, Cleopatra aesthetic - see full
+  brand palette and style rules below.
+
+### Full palette
+
+| Color | Hex | Role |
+|---|---|---|
+| Dark emerald | `#114B4E` | Primary |
+| Medium emerald | `#8DA79E` | Secondary |
+| Light emerald | `#AFC7BE` | Secondary |
+| Gold | `#C9A24D` | Accent only - never a dominant fill |
+| Ivory | `#F7F3EC` | Background |
+| Warm cream | `#EFE7DA` | Background |
+| Graphite | `#222222` | Text/line |
+
+Approved combinations: dark emerald + gold; light emerald + dark emerald;
+ivory + gold. Avoid large gold elements on a light-emerald background.
+
+### Style rules
+
+Premium, minimalist, feminine, intelligent - luxury beauty or fine-jewelry
+production values, not a costume-shop take on Ancient Egypt. Thin gold
+linework; Cleopatra symbolism (lotus, Eye of Horus, ankh, Egyptian ornament
+motifs) used sparingly, never kitsch. Every image should carry a sense of
+care, status, beauty, and trust.
