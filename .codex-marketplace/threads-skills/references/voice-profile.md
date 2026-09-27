@@ -81,17 +81,13 @@ ignored.
 
   **DM-codeword variant** (use instead of the plain link/CTA line, not
   alongside it - it replaces the ask, doesn't add a second one): invite the
-  reader to DM a codeword for the free trial/month instead of naming a link.
-  Rotate the word across posts, do not lock in one. Candidate codewords
-  (on-brand, easy to type, memorable):
-  - **АМУЛЕТ** - the onboarding amulet from the app's own lore, ties the CTA
-    straight back to the product's story.
-  - **ХРАНИТЕЛЬ** - "keeper/guardian," echoes the cat's role for the master.
-  - **СКАРАБЕЙ** - protection/transformation symbolism, elegant and short.
-  - **ЛОТОС** - purity/rebirth, soft and feminine, easy to say out loud.
-  - **ЦАРИЦА** - "queen," a warm nod to the reader herself, not just the brand.
-  - **ОКО** - short for the Eye of Horus, protection/vision, punchy and rare
-    enough to stand out in a DM inbox.
+  reader to DM the fixed codeword for the free trial/month instead of naming
+  a link.
+
+  **The codeword is fixed: КЛЕОПАТРА.** Founder's decision (2026-09-27) -
+  do not rotate it, do not substitute a different word. Every DM-codeword CTA
+  uses this same word every time, e.g. "Напишите в личку слово Клеопатра -
+  пришлю бесплатный месяц."
 
   Note: the exact trial mechanics (length, what happens after) still need the
   team's sign-off per the methodology doc before a real campaign runs on
