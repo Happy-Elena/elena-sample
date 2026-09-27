@@ -64,9 +64,39 @@ ignored.
 
 ## 4. Links and CTA
 
-- Primary link you point people to:
-- Where it goes:
-- Your CTA style:
+- Primary link you point people to: (not set yet - waiting on the approved
+  signup/landing link)
+- Where it goes: (waiting on the approved registration/trial flow)
+- Your CTA style: **every post closes with a free-trial CTA** - a warm,
+  low-pressure invitation to try the product free, per the founder's direct
+  call (2026-09-27). Never a hard sell, never stacked as a second product
+  pitch on top of the one in-body mention (see section 3) - it is its own
+  closing beat. Rotate the phrasing so it never reads as a copy-pasted
+  template:
+  - "Попробуйте бесплатно уже сегодня."
+  - "Первый месяц - за счёт Кота Клеопатры."
+  - "Начните бесплатно, дальше сами решите."
+  - "Месяц пользования - в подарок."
+  - "Загляните бесплатно, кот покажет как это работает."
+
+  **DM-codeword variant** (use instead of the plain link/CTA line, not
+  alongside it - it replaces the ask, doesn't add a second one): invite the
+  reader to DM a codeword for the free trial/month instead of naming a link.
+  Rotate the word across posts, do not lock in one. Candidate codewords
+  (on-brand, easy to type, memorable):
+  - **АМУЛЕТ** - the onboarding amulet from the app's own lore, ties the CTA
+    straight back to the product's story.
+  - **ХРАНИТЕЛЬ** - "keeper/guardian," echoes the cat's role for the master.
+  - **СКАРАБЕЙ** - protection/transformation symbolism, elegant and short.
+  - **ЛОТОС** - purity/rebirth, soft and feminine, easy to say out loud.
+  - **ЦАРИЦА** - "queen," a warm nod to the reader herself, not just the brand.
+  - **ОКО** - short for the Eye of Horus, protection/vision, punchy and rare
+    enough to stand out in a DM inbox.
+
+  Note: the exact trial mechanics (length, what happens after) still need the
+  team's sign-off per the methodology doc before a real campaign runs on
+  them; the phrasing above is safe to ship since it stays generic ("free",
+  "a month") rather than naming specific terms.
 
 ## 5. Signature examples
 
