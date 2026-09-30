@@ -89,10 +89,15 @@ ignored.
   uses this same word every time, e.g. "Напишите в личку слово Клеопатра -
   пришлю бесплатный месяц."
 
-  Note: the exact trial mechanics (length, what happens after) still need the
-  team's sign-off per the methodology doc before a real campaign runs on
-  them; the phrasing above is safe to ship since it stays generic ("free",
-  "a month") rather than naming specific terms.
+  **Confirmed pricing** (source: the founder's own Notion marketing-plan doc,
+  "🐾 Маркетинг кота Клеопатры," synced 2026-09-30 - see
+  `content-queue.md` for the full doc): price is **900 ₽/month**; **first
+  month free, no card required**; an early-bird price of **500 ₽ for 6
+  months** for the first wave of masters, available to anyone who starts
+  their free trial **before October 31**. These are safe to state exactly as
+  given - they come from the founder's own planning doc, not invented. Do
+  not extend the October 31 date or the 500 ₽ terms past what the doc says
+  without the founder confirming an update.
 
 ## 5. Signature examples
 
