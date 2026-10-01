@@ -30,6 +30,11 @@ this file from Notion if the doc changes materially.
 - Every post still goes through the normal pipeline regardless of source:
   pick a threads-post-writer formula, run threads-humanizer, close with the
   standing free-trial CTA from voice-profile.md section 4.
+- **Every post ships with an image ТЗ** (founder's standing rule, 2026-10-01)
+  - square 1:1, in the established brand style from voice-profile.md section
+    6 (palette, Egyptian-luxury style rules, the mandatory cat anatomy and
+    left-ear-only earring clauses). Not optional, not only on request - every
+    single post gets one, scene tailored to that post's specific unit.
 
 ## State
 
