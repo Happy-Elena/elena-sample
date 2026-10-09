@@ -38,7 +38,7 @@ this file from Notion if the doc changes materially.
 
 ## State
 
-- next_index: 2
+- next_index: 3
 - cycle: 1
 
 ## Waiting (blocked on real data - do not auto-consume)
@@ -62,6 +62,7 @@ this file from Notion if the doc changes materially.
 | # | Боль | Триггер | Cycle | Дата | Формула / угол | Заметка |
 |---|---|---|---|---|---|---|
 | 1 | Б1 | Последовательность | 1 | 2026-09-30 | прямой призыв посчитать + решение | "Посчитайте сообщения за вчера" -> отдать переписку коту |
+| 2 | Б1 | Природа продукта | 1 | 2026-10-09 | прямой reveal продукта, без "не X, а Y" (убрали из юнита как tell) | кот как живой собеседник: здоровается, подсказывает время, подтверждает |
 
 ## Full ordered list
 
