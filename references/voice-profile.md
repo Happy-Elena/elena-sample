@@ -173,3 +173,40 @@ gets it right by default:
 - State both halves of this explicitly in every prompt (which ear has it,
   and that the other ear has none) rather than just naming "an earring,"
   since models default to a symmetrical pair otherwise.
+
+### Visual variety rotation (mandatory for every image ТЗ)
+
+Founder's rule (2026-10-10): the feed (Threads and Instagram grid) must look
+varied, elegant, and editorial - not the same mid-shot of the cat every time.
+Every image ТЗ picks one shot type from this list and rotates through them:
+
+| Code | Shot type | Example |
+|---|---|---|
+| V1 | Крупный план детали кота | half of the cat's face with the left-ear earring and an emerald eye; a paw resting on a gold ring, a nail-polish bottle, a phone |
+| V2 | Детали без кота | still life: polish bottles, brushes, a lotus, gold jewelry, an appointment book, a phone on emerald marble |
+| V3 | Дальний план интерьера | a calm, luxurious beauty studio in emerald and gold, Egyptian-revival details, warm light, no people or a tiny silhouette |
+| V4 | Клеопатра-мастер без кота | Cleopatra working as a manicure master, focused and regal |
+| V5 | Клеопатра с котом | Cleopatra at work, the cat beside her |
+| V6 | Средний план кота | the classic cat-at-the-desk shot |
+
+Rules:
+- Never use the same shot type twice in a row. Check the Shot column in
+  `content-queue.md` Log before choosing.
+- V6 (cat mid-shot) at most once per five posts.
+- Over any six consecutive posts, use at least four different shot types.
+- Pick the shot type that best carries the post's meaning, within the
+  rotation constraint.
+- The cat anatomy and left-ear-only earring rules apply whenever any part of
+  the cat is in frame (including V1 close-ups). The hand-anatomy rule applies
+  whenever human hands are in frame (exactly five fingers each, no extra or
+  fused fingers).
+
+### Cleopatra character consistency (when she is in frame: V4, V5)
+
+- Straight black bob/wig with thin gold beads, a gold uraeus diadem.
+- Expressive Egyptian eye makeup, calm, confident, regal posture.
+- Gold and emerald jewelry: collar necklace, earrings, bracelets; ivory or
+  cream clothing with gold details.
+- Shown as a modern manicure master (tools, lamp, nail work), not as a
+  costume-party pharaoh. Elegant and real, never kitsch.
+- Anatomically correct face and hands; no readable text in frame.

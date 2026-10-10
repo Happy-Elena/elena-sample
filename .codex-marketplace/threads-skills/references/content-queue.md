@@ -33,7 +33,8 @@ this file from Notion if the doc changes materially.
 - **Every post ships with an image ТЗ** (founder's standing rule, 2026-10-01)
   - square 1:1, in the established brand style from voice-profile.md section
     6 (palette, Egyptian-luxury style rules, the mandatory cat anatomy and
-    left-ear-only earring clauses). Not optional, not only on request - every
+    left-ear-only earring clauses, and the visual variety rotation - log the
+    shot code V1-V6 in the Log). Not optional, not only on request - every
     single post gets one, scene tailored to that post's specific unit.
 
 ## State
@@ -59,11 +60,11 @@ this file from Notion if the doc changes materially.
 
 ## Log (what already ran, for cycle 2+ variation)
 
-| # | Боль | Триггер | Cycle | Дата | Формула / угол | Заметка |
-|---|---|---|---|---|---|---|
-| 1 | Б1 | Последовательность | 1 | 2026-09-30 | прямой призыв посчитать + решение | "Посчитайте сообщения за вчера" -> отдать переписку коту |
-| 2 | Б1 | Природа продукта | 1 | 2026-10-09 | прямой reveal продукта, без "не X, а Y" (убрали из юнита как tell) | кот как живой собеседник: здоровается, подсказывает время, подтверждает |
-| 3 | Б1 | Природа покупателя | 1 | 2026-10-10 | мотив профессии -> кот забирает переписку, без "а не" | "шли делать красоту руками, переписка в план не входила" |
+| # | Боль | Триггер | Cycle | Дата | Формула / угол | Shot (voice-profile §6) | Заметка |
+|---|---|---|---|---|---|---|---|
+| 1 | Б1 | Последовательность | 1 | 2026-09-30 | прямой призыв посчитать + решение | V6 | "Посчитайте сообщения за вчера" -> отдать переписку коту |
+| 2 | Б1 | Природа продукта | 1 | 2026-10-09 | прямой reveal продукта, без "не X, а Y" (убрали из юнита как tell) | V6 | кот как живой собеседник: здоровается, подсказывает время, подтверждает |
+| 3 | Б1 | Природа покупателя | 1 | 2026-10-10 | мотив профессии -> кот забирает переписку, без "а не" | V4 | "шли делать красоту руками, переписка в план не входила"; image redone as Cleopatra-master |
 
 ## Full ordered list
 
