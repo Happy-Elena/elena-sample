@@ -135,5 +135,5 @@ If any of these fail, do not push.
 ## Content rules for «Кот Клеопатры»
 
 When writing any post or article for the «Кот Клеопатры» project, follow
-`content-rules/kot-kleopatry-dzen.md` (Yandex Dzen long-form, always for beauty
+`content-rules/kot-kleopatry-dzen.md` (Yandex Dzen long-form up to 4095 chars, always for beauty
 masters, one meaning per article reflected in title, hook and body).
