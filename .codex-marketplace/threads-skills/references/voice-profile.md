@@ -56,7 +56,11 @@ ignored.
   team of AI agents working for the beauty master - that is the real
   product direction, confirmed by the founder. Address the master as an
   independent entrepreneur, never as "a girl who needs help." One natural
-  product mention max per post.
+  product mention max per post. **Name the audience explicitly somewhere in
+  every post** (founder's rule, 2026-10-10) - a phrase like "для
+  бьюти-мастеров," "бьюти-мастера," "мастера маникюра," or just "мастера,"
+  so the reader self-identifies immediately. Fold it in naturally (the
+  opener, the body, or the CTA); it does not need its own sentence.
 - Never: promise a specific ruble figure or result without confirmed data
   and team sign-off. Never invent cases or numbers. No pressure/urgency
   framing ("супер-мега-инновационная AI-платформа" and the like - AI is
