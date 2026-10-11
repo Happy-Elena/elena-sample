@@ -1,5 +1,11 @@
 {
   "extraKnownMarketplaces": {
+    "linkedin-skills": {
+      "source": {
+        "source": "github",
+        "repo": "sergebulaev/linkedin-skills"
+      }
+    },
     "crosspost-design": {
       "source": {
         "source": "github",
@@ -8,6 +14,7 @@
     }
   },
   "enabledPlugins": {
+    "linkedin-skills@linkedin-skills": true,
     "crosspost-design@crosspost-design": true
   }
 }
