@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "crosspost-design": {
+      "source": {
+        "source": "github",
+        "repo": "Shadowru/crosspost-design-skill"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "crosspost-design@crosspost-design": true
+  }
+}
