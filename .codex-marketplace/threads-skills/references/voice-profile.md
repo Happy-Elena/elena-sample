@@ -68,30 +68,25 @@ ignored.
 
 ## 4. Links and CTA
 
-- Primary link you point people to: (not set yet - waiting on the approved
-  signup/landing link)
-- Where it goes: (waiting on the approved registration/trial flow)
-- Your CTA style: **every post closes with a free-trial CTA** - a warm,
-  low-pressure invitation to try the product free, per the founder's direct
-  call (2026-09-27). Never a hard sell, never stacked as a second product
-  pitch on top of the one in-body mention (see section 3) - it is its own
-  closing beat. Rotate the phrasing so it never reads as a copy-pasted
-  template:
-  - "Попробуйте бесплатно уже сегодня."
-  - "Первый месяц - за счёт Кота Клеопатры."
-  - "Начните бесплатно, дальше сами решите."
-  - "Месяц пользования - в подарок."
-  - "Загляните бесплатно, кот покажет как это работает."
+- Primary link you point people to: https://cleopatras.ru/cabinet (demo
+  version of the product; founder's rule, 2026-10-14)
+- Where it goes: the Кот Клеопатры demo cabinet, where the master sees how
+  the assistant works.
+- Your CTA style: **every post closes with the demo CTA plus the link, and
+  the link is always the very last line of the post** (founder's rule,
+  2026-10-14; this replaces the earlier free-trial and DM-codeword CTAs).
+  Warm and low-pressure, never a hard sell, never stacked as a second
+  product pitch on top of the one in-body mention (see section 3). Base
+  wording, with light rephrasing allowed so it does not read as a template:
 
-  **DM-codeword variant** (use instead of the plain link/CTA line, not
-  alongside it - it replaces the ask, doesn't add a second one): invite the
-  reader to DM the fixed codeword for the free trial/month instead of naming
-  a link.
+  ```
+  Попробуйте демо-версию и посмотрите, как это работает:
+  https://cleopatras.ru/cabinet
+  ```
 
-  **The codeword is fixed: КЛЕОПАТРА.** Founder's decision (2026-09-27) -
-  do not rotate it, do not substitute a different word. Every DM-codeword CTA
-  uses this same word every time, e.g. "Напишите в личку слово Клеопатра -
-  пришлю бесплатный месяц."
+  - Nothing goes after the link: no hashtags, no extra line.
+  - The DM codeword («Клеопатра») CTA is retired; do not use it unless the
+    founder brings it back.
 
   **Confirmed pricing** (source: the founder's own Notion marketing-plan doc,
   "🐾 Маркетинг кота Клеопатры," synced 2026-09-30 - see
