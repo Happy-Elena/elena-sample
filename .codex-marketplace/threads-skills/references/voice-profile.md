@@ -72,21 +72,29 @@ ignored.
   version of the product; founder's rule, 2026-10-14)
 - Where it goes: the Кот Клеопатры demo cabinet, where the master sees how
   the assistant works.
-- Your CTA style: **every post closes with the demo CTA plus the link, and
-  the link is always the very last line of the post** (founder's rule,
-  2026-10-14; this replaces the earlier free-trial and DM-codeword CTAs).
-  Warm and low-pressure, never a hard sell, never stacked as a second
-  product pitch on top of the one in-body mention (see section 3). Base
-  wording, with light rephrasing allowed so it does not read as a template:
+- Your CTA style: **every post closes with two beats, in this order, and
+  the demo link is always the very last line of the post** (founder's
+  rules, 2026-10-14). Warm and low-pressure, never a hard sell, never
+  stacked as a second product pitch on top of the one in-body mention (see
+  section 3). Base wording, with light rephrasing allowed so it does not
+  read as a template:
 
   ```
+  Хотите себе Кота Клеопатры? Напишите в комментариях слово «Клеопатра», и мы расскажем, как получить его на полгода бесплатно.
+
   Попробуйте демо-версию и посмотрите, как это работает:
   https://cleopatras.ru/cabinet
   ```
 
-  - Nothing goes after the link: no hashtags, no extra line.
-  - The DM codeword («Клеопатра») CTA is retired; do not use it unless the
-    founder brings it back.
+  1. **Codeword-in-comments beat.** The codeword is fixed: **Клеопатра**.
+     Do not rotate it or substitute a different word. Readers write it **in
+     the comments under the post, never in DMs** ("в комментариях", not
+     "в личку"). The offer is **six months free** ("полгода бесплатно"),
+     per the founder; the post only invites the reader to find out how,
+     it does not spell out the terms.
+  2. **Demo beat + link.** The link https://cleopatras.ru/cabinet stands
+     alone on the final line. Nothing goes after it: no hashtags, no extra
+     line.
 
   **Confirmed pricing** (source: the founder's own Notion marketing-plan doc,
   "🐾 Маркетинг кота Клеопатры," synced 2026-09-30 - see
