@@ -72,29 +72,30 @@ ignored.
   version of the product; founder's rule, 2026-10-14)
 - Where it goes: the Кот Клеопатры demo cabinet, where the master sees how
   the assistant works.
-- Your CTA style: **every post closes with two beats, in this order, and
-  the demo link is always the very last line of the post** (founder's
-  rules, 2026-10-14). Warm and low-pressure, never a hard sell, never
-  stacked as a second product pitch on top of the one in-body mention (see
-  section 3). Base wording, with light rephrasing allowed so it does not
-  read as a template:
+- Your CTA style: **every post closes with two beats, in this order: the
+  demo beat with its link, then the codeword-in-comments beat as the very
+  last paragraph** (founder's rules, 2026-10-14; order swapped by the
+  founder the same day, so the link is no longer the final line). Warm and
+  low-pressure, never a hard sell, never stacked as a second product pitch
+  on top of the one in-body mention (see section 3). Base wording, with
+  light rephrasing allowed so it does not read as a template:
 
   ```
-  Хотите себе Кота Клеопатры? Напишите в комментариях слово «Клеопатра», и мы расскажем, как получить его на полгода бесплатно.
-
   Попробуйте демо-версию и посмотрите, как это работает:
   https://cleopatras.ru/cabinet
+
+  Хотите себе Кота Клеопатры? Напишите в комментариях слово «Клеопатра», и мы расскажем, как получить его на полгода бесплатно.
   ```
 
-  1. **Codeword-in-comments beat.** The codeword is fixed: **Клеопатра**.
-     Do not rotate it or substitute a different word. Readers write it **in
-     the comments under the post, never in DMs** ("в комментариях", not
-     "в личку"). The offer is **six months free** ("полгода бесплатно"),
-     per the founder; the post only invites the reader to find out how,
-     it does not spell out the terms.
-  2. **Demo beat + link.** The link https://cleopatras.ru/cabinet stands
-     alone on the final line. Nothing goes after it: no hashtags, no extra
-     line.
+  1. **Demo beat + link.** The link https://cleopatras.ru/cabinet stands
+     alone on its own line right after the demo sentence.
+  2. **Codeword-in-comments beat (closes the post).** The codeword is
+     fixed: **Клеопатра**. Do not rotate it or substitute a different word.
+     Readers write it **in the comments under the post, never in DMs**
+     ("в комментариях", not "в личку"). The offer is **six months free**
+     ("полгода бесплатно"); the post only invites the reader to find out
+     how, it does not spell out the terms. Nothing goes after this
+     paragraph: no hashtags, no extra line.
 
   **Current offer** (founder's decision, 2026-10-14; supersedes the earlier
   "first month free + 500 ₽ for 6 months before October 31" terms from the

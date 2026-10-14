@@ -29,8 +29,8 @@ this file from Notion if the doc changes materially.
     different formula, hook, or specific detail this time.
 - Every post still goes through the normal pipeline regardless of source:
   pick a threads-post-writer formula, run threads-humanizer, close with the
-  standing two-beat CTA from voice-profile.md section 4 (codeword
-  «Клеопатра» in the comments, then the demo link as the last line).
+  standing two-beat CTA from voice-profile.md section 4 (demo link
+  first, then the codeword «Клеопатра» in the comments as the last line).
 - **Every post ships with an image ТЗ** (founder's standing rule, 2026-10-01)
   - square 1:1, in the established brand style from voice-profile.md section
     6 (palette, Egyptian-luxury style rules, the mandatory cat anatomy and
