@@ -96,15 +96,16 @@ ignored.
      alone on the final line. Nothing goes after it: no hashtags, no extra
      line.
 
-  **Confirmed pricing** (source: the founder's own Notion marketing-plan doc,
-  "🐾 Маркетинг кота Клеопатры," synced 2026-09-30 - see
-  `content-queue.md` for the full doc): price is **900 ₽/month**; **first
-  month free, no card required**; an early-bird price of **500 ₽ for 6
-  months** for the first wave of masters, available to anyone who starts
-  their free trial **before October 31**. These are safe to state exactly as
-  given - they come from the founder's own planning doc, not invented. Do
-  not extend the October 31 date or the 500 ₽ terms past what the doc says
-  without the founder confirming an update.
+  **Current offer** (founder's decision, 2026-10-14; supersedes the earlier
+  "first month free + 500 ₽ for 6 months before October 31" terms from the
+  Notion doc): **six months free** for the first wave of masters. These
+  masters use the product for real, test it, and act as a focus group whose
+  feedback helps finish the product. Posts invite readers to find out how
+  via the comments codeword (see above) and do not spell out the terms or
+  promise anything beyond "полгода бесплатно". Do not add a deadline, a
+  seat count, or a post-trial price in posts until the founder confirms
+  them. The list price in the Notion doc (900 ₽/month) is background only;
+  do not state it in posts while this offer runs.
 
 ## 5. Signature examples
 
