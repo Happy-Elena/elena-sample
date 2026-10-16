@@ -68,45 +68,34 @@ ignored.
 
 ## 4. Links and CTA
 
-- Primary link you point people to: https://cleopatras.ru/cabinet (demo
-  version of the product; founder's rule, 2026-10-14)
-- Where it goes: the Кот Клеопатры demo cabinet, where the master sees how
-  the assistant works.
-- Your CTA style: **every post closes with two beats, in this order: the
-  demo beat with its link, then the codeword-in-comments beat as the very
-  last paragraph** (founder's rules, 2026-10-14; order swapped by the
-  founder the same day, so the link is no longer the final line). Warm and
-  low-pressure, never a hard sell, never stacked as a second product pitch
-  on top of the one in-body mention (see section 3). Base wording, with
-  light rephrasing allowed so it does not read as a template:
+- Primary link you point people to: https://cleopatras.ru/ (the main site
+  with all the details; founder's rule, 2026-10-16)
+- Where it goes: the Кот Клеопатры site, where the master reads about the
+  product and how to start.
+- Your CTA style: **every post closes with this exact line, and it is the
+  very last line of the post** (founder's rule, 2026-10-16; replaces the
+  earlier demo-link and codeword-in-comments CTAs):
 
   ```
-  Попробуйте демо-версию и посмотрите, как это работает:
-  https://cleopatras.ru/cabinet
-
-  Хотите себе Кота Клеопатры? Напишите в комментариях слово «Клеопатра», и мы расскажем, как получить его на полгода бесплатно.
+  Познакомься с Котом Клеопатры: https://cleopatras.ru/
   ```
 
-  1. **Demo beat + link.** The link https://cleopatras.ru/cabinet stands
-     alone on its own line right after the demo sentence.
-  2. **Codeword-in-comments beat (closes the post).** The codeword is
-     fixed: **Клеопатра**. Do not rotate it or substitute a different word.
-     Readers write it **in the comments under the post, never in DMs**
-     ("в комментариях", not "в личку"). The offer is **six months free**
-     ("полгода бесплатно"); the post only invites the reader to find out
-     how, it does not spell out the terms. Nothing goes after this
-     paragraph: no hashtags, no extra line.
+  - Keep the wording as is, including the informal «Познакомься»: the
+    founder chose it on purpose. Do not rephrase or rotate it.
+  - The link stays on the same line, after the colon. Nothing goes after
+    it: no hashtags, no extra line.
+  - Retired, do not use unless the founder brings them back: the demo link
+    https://cleopatras.ru/cabinet as a closing CTA, the codeword
+    «Клеопатра», "напишите в личку", "попробуйте бесплатно" style closers.
+  - A post may still ask readers to answer in the comments when the post
+    itself is a question (e.g. a poll); that ask goes in the body, before
+    the closing line.
 
-  **Current offer** (founder's decision, 2026-10-14; supersedes the earlier
-  "first month free + 500 ₽ for 6 months before October 31" terms from the
-  Notion doc): **six months free** for the first wave of masters. These
-  masters use the product for real, test it, and act as a focus group whose
-  feedback helps finish the product. Posts invite readers to find out how
-  via the comments codeword (see above) and do not spell out the terms or
-  promise anything beyond "полгода бесплатно". Do not add a deadline, a
-  seat count, or a post-trial price in posts until the founder confirms
-  them. The list price in the Notion doc (900 ₽/month) is background only;
-  do not state it in posts while this offer runs.
+  **Offer** (founder, 2026-10-14/16): early masters get the product free
+  while they test it and act as a focus group (internally: six months
+  free). In posts, **do not promise "полгода" or any term length**; if the
+  offer is mentioned at all, say only "бесплатно". No deadlines, seat
+  counts, or prices in posts until the founder confirms them.
 
 ## 5. Signature examples
 
